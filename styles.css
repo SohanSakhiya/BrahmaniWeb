@@ -1,0 +1,141 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #F0EBE3;
+}
+
+.head-img {
+    /* border: 2px solid black; */
+    /* margin: 150px 0; */
+    padding: 25px;
+    background: url(images/forgeing.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 60vh;
+    /* height: auto; */
+    max-width: 100%;
+}
+
+.top-txt {
+    color: white;
+    text-align: right;
+    margin-top: 250px;
+    margin-right: 80px;
+    font-size: 30px;
+}
+
+.company-name {
+    font-family: 'League Spartan', sans-serif;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 80px;
+    margin: 30px;
+    border-radius: 100%;
+}
+
+.containerr {
+    color: black;
+    margin: 15px 50px;
+}
+
+.head-item {
+    font-family: 'League Spartan', sans-serif;
+    color: black;
+}
+
+.head-list {
+    margin-left: auto;
+}
+
+.mid-section {
+    margin: 50px 80px;
+    text-align: center;
+}
+
+.sub-head {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.sub-head-desc {
+
+    font-size: 20px
+}
+
+.contact-us {
+    text-align: center;
+    /* padding: 5px; */
+}
+
+.foot-emojis {
+
+    margin: 5px
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    /* width: 100%; */
+    height: 200px;
+    width: 500px;
+    /* text-align: center; */
+    margin: auto;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    /* width: 100%; */
+    height: 200px;
+}
+
+.gmap_iframe {
+    height: 200px !important;
+    /* border: solid rgb(194, 140, 140) 5px; */
+    border-radius: 50px;
+}
+
+.locate-us {
+    font-size: 30px;
+    margin: 0 50px;
+}
+
+#footer {
+    margin-top: 50px;
+}
+
+.navbar-toggler {
+    background-color: darkgray;
+    /* color: black; */
+}
+
+.content {
+    margin: 0px 100px;
+
+
+}
+
+.low-section {
+    margin: 60px 0 20px 0;
+}
+
+.justify-content-center {
+    background-color: cadetblue;
+    border-radius: 50px;
+    margin-top: 20px;
+
+}
+
+.form-group {
+    margin: 10px 0;
+}
+
+.col-12 {
+    text-align: center;
+}
